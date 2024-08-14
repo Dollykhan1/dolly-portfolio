@@ -5,7 +5,7 @@ import { FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
 import { FcGoogle } from "react-icons/fc";
 import { Link } from "react-router-dom";
 import { FaCloudArrowDown } from "react-icons/fa6";
-const PDF_FILE_URL ="http://localhost:5173/Resume.pdf";
+const PDF_FILE_URL ="https://66b213c12a5e6204550ff05a--clinquant-selkie-d46594.netlify.app/Resume.pdf";
 const Banner = () => {
   const downloadFileATUrl = (url) => {
     const fileName = url.split("/").pop();
