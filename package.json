@@ -1,5 +1,6 @@
 {
   "name": "dolly-protflio-client-site",
+  "homepages": "https://www.dkbshop.com/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
